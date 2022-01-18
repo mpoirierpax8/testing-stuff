@@ -5,4 +5,5 @@ https://github.com/anuraghazra/github-readme-stats
 # testing-stuff
 
 
-does this update my count?
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mpoirierpax8&repo=testing-stuff)](https://github.com/mpoirierpax8/testing-stuff)
+
