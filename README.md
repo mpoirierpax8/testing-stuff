@@ -7,3 +7,4 @@ https://github.com/anuraghazra/github-readme-stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mpoirierpax8&repo=testing-stuff)](https://github.com/mpoirierpax8/testing-stuff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpoirierpax8)](https://github.com/anuraghazra/testing-stuff)
